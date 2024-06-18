@@ -1,0 +1,2 @@
+# StokBarang
+StokSukuCadang
